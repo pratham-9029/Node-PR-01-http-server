@@ -35,15 +35,10 @@ A lightweight Node.js HTTP server that serves static HTML pages with routing cap
 
 ## 🔧 Installation
 
-1. Clone or download this repository:
+Clone or download this repository:
    ```bash
    git clone https://github.com/pratham-9029/Node-PR-01-http-server.git
    cd Node-PR-01-http-server
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install vite 
    ```
 
 ## 🚀 Running the Application
