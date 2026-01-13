@@ -2,6 +2,10 @@
 
 A lightweight Node.js HTTP server that serves static HTML pages with routing capabilities. This project demonstrates a simple approach to handling HTTP requests and serving static content.
 
+## >> Live Preview
+
+- [http-server](https://node-pr-01-http-server.vercel.app/)
+
 ## 🚀 Features
 
 - **Static File Serving**: Serves HTML, CSS, and other static assets
